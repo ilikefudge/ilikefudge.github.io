@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Your Name and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
+This is my home page! My name is Matthew Espares and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is computer science.
 ## Computer Science Projects
 
 My GitHub page is http://github.com/ilikefudge.
@@ -9,7 +9,7 @@ My GitHub page is http://github.com/ilikefudge.
 
 * Lab 2
 
-    Lab 2 part 1 was fun as it was an early introduction to actual coding. It was very doable but more challenging than part one, and successfully completing it made me feel a great sense of accomplishment whenever I sucessfully ran my code.
+    Lab 2 part 1 was fun as it was an early introduction to actual coding. It was very doable but more challenging than part one. Successfully completing it made me feel a great sense of accomplishment whenever I sucessfully ran my code.
 
 * Lab 7
 
